@@ -6,5 +6,5 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   integrations: [tailwind()],
   site: 'https://safeack.github.io',
-  base: 'safeack.github.io',
+  // base: 'safeack.github.io',
 });
